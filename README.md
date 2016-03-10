@@ -1,2 +1,3 @@
 # hello-world
-Test project to learn the basics
+Test project to learn the basics!
+In the editor write a bit about yourself!
